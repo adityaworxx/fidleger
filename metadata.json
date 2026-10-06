@@ -1,0 +1,6 @@
+{
+  "name": "Asana AI — Work Management & Teammate",
+  "description": "Automate manual work, get insights on what to prioritize, and adapt workflows to your organization's evolving needs with Asana AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
